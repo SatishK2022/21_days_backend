@@ -1,0 +1,2 @@
+Hello Everyone!!
+I am going to read this file using nodejs modules
